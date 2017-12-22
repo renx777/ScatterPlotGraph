@@ -1,0 +1,39 @@
+svg{
+  margin-left:130px;
+  
+  
+}
+
+.tooltip {
+            position: absolute;
+            font-size: 12px;
+            width:  auto;
+            height: auto;
+            pointer-events: none;
+  color:#e8d910e8;
+            background-color: black;
+  padding-left:5px
+}
+
+
+.card{
+  margin:0 auto;
+  width:1200px;
+   box-shadow: inset 0 0 19px 6px #000000;
+  
+  
+  
+}
+
+
+.labels{
+  font-weight:bolder
+}
+
+.card-block{
+  padding-bottom:10px
+}
+
+.dot:hover{
+  stroke:black
+}
